@@ -6,4 +6,3 @@ let ola = (nome: string, sobrenome:string) =>
 ola("Jade", "Caseiro");
 
 let meuNome: string = "Jade"
-
